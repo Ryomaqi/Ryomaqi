@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Ryoma</title>
+  <title>随便</title>
   
-  <subtitle>Stay Hungry, Stay Foolish</subtitle>
+  <subtitle>You&#39;re the light, You&#39;re the night</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -10,7 +10,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>Ryoma</name>
+    <name>小李社长的阿欢</name>
     
   </author>
   
